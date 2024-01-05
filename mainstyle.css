@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Public+Sans:wght@300;400&family=Rubik+Glitch&display=swap');
+
+body {
+    font-size: 14px;
+    font-family: 'Rubik Glitch', sans-serif ;
+    font-weight: 50;
+    background-color: bisque;
+    text-align: center;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+
+h1 {
+    font-family: 'Dancing Script', sans-serif;
+    text-align: center;
+}
+
+img{
+    align-items: center;
+}
+
+h2 {
+    font-family: 'Dancing Script', sans-serif;
+}
+
+ul, ol {
+    font-family: 'Sevillana', sans-serif;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+p{
+    font-family: 'Sevillana', sans-serif;
+}
+
+footer a{
+    font-family: 'Times New Roman', Times, serif;
+}
